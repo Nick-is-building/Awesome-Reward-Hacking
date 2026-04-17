@@ -1,0 +1,83 @@
+cff-version: 1.2.0
+message: "If you use this survey or the accompanying reading list, please cite it as below."
+title: "Reward Hacking in the Era of Large Models: Mechanisms, Emergent Misalignment, Challenges"
+type: article
+authors:
+  - family-names: Wang
+    given-names: Xiaohua
+    email: xhwang24@m.fudan.edu.cn
+    affiliation: Fudan NLP Group
+  - family-names: Tian
+    given-names: Muzhao
+    affiliation: Fudan NLP Group
+  - family-names: Zeng
+    given-names: Yuqi
+    affiliation: Fudan NLP Group
+  - family-names: Huang
+    given-names: Zisu
+    affiliation: Fudan NLP Group
+  - family-names: Yuan
+    given-names: Jiakang
+    affiliation: Fudan NLP Group
+  - family-names: Chen
+    given-names: Bowen
+    affiliation: Fudan NLP Group
+  - family-names: Xu
+    given-names: Jingwen
+    affiliation: Fudan NLP Group
+  - family-names: Zhou
+    given-names: Mingbo
+    affiliation: Fudan NLP Group
+  - family-names: Liu
+    given-names: Wenhao
+  - family-names: Wu
+    given-names: Muling
+  - family-names: Guo
+    given-names: Zhengkang
+  - family-names: Qian
+    given-names: Qi
+  - family-names: Wang
+    given-names: Yifei
+  - family-names: Zhang
+    given-names: Feiran
+  - family-names: Yin
+    given-names: Ruicheng
+  - family-names: Dou
+    given-names: Shihan
+  - family-names: Lv
+    given-names: Changze
+  - family-names: Chen
+    given-names: Tao
+  - family-names: Song
+    given-names: Kaitao
+  - family-names: Tan
+    given-names: Xu
+  - family-names: Gui
+    given-names: Tao
+  - family-names: Zheng
+    given-names: Xiaoqing
+    affiliation: Fudan NLP Group
+  - family-names: Huang
+    given-names: Xuanjing
+    affiliation: Fudan NLP Group
+year: 2026
+identifiers:
+  - type: other
+    value: "arXiv:2604.13602"
+    description: arXiv preprint identifier
+url: "https://arxiv.org/abs/2604.13602"
+repository-code: "https://github.com/xhwang22/Awesome-Reward-Hacking"
+license: MIT
+keywords:
+  - reward hacking
+  - reinforcement learning
+  - RLHF
+  - RLAIF
+  - RLVR
+  - alignment
+  - large language models
+  - multimodal models
+  - agentic AI
+  - AI safety
+  - Goodhart's law
+  - specification gaming
