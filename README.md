@@ -1334,7 +1334,6 @@ We maintain this list as a **living document**; reward hacking is a fast-moving 
 ### Related resources
 
 - 🗒 **Full paper index (by year):** [`docs/paper_index.md`](./docs/paper_index.md)
-- 📄 **All BibTeX entries:** [`references.bib`](./references.bib)
 - 🧠 **Survey abstract & key concepts:** [`docs/abstract.md`](./docs/abstract.md)
 
 ---
